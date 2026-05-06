@@ -1,4 +1,3 @@
-# Secrets / environment variables
 .env
 
 # Local .terraform directory (plugins/modules cache)
