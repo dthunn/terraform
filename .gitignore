@@ -1,6 +1,5 @@
 .env
 
-# Local .terraform directory (plugins/modules cache)
 .terraform/
 
 # State files - can contain sensitive data
